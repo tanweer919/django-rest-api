@@ -1,5 +1,5 @@
 # Django REST API Tutorial
-Here REST API in the implemented in the form of simple todo
+Here REST API is implemented in the form of simple todo
 ## Different APIs
 | url              | method | body                        | response                   |
 |------------------|--------|-----------------------------|----------------------------|
